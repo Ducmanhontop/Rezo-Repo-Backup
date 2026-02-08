@@ -4,6 +4,7 @@
     "description": "Cloudstream extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://git.yuuta.site/zeronos/zero-mv/raw/branch/builds/plugins.json"
+      "https://raw.githubusercontent.com/Ducmanhontop/Rezo-Repo-Backup/refs/heads/main/zero%20source.json?token=GHSAT0AAAAAADTP45PWYP53LUOEIVTKV32K2MH4GTA"
     ]
+
 }
