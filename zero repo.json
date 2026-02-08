@@ -1,0 +1,9 @@
+{
+    "name": "ZeroNos Ext",
+    "iconUrl": "https://github.com/hoangxg4/temp-h4rs/raw/refs/heads/image/zeronos.png",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://git.yuuta.site/zeronos/zero-mv/raw/branch/builds/plugins.json"
+    ]
+}
